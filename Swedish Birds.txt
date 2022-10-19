@@ -1,0 +1,461 @@
+Aftonfalken
+Albatrossen
+Alfågelen
+Alförrädaren
+Alkekungen
+Alpjärnsparven
+Alpkajan
+Alpseglaren
+Amurfalken	
+Azurmesen
+Backsvalan	
+Baleariska Liran
+Balkansångaren
+Beigekindade Skogstrasten
+Berganden
+Bergfinken
+Berglärkan	
+Bergstajgasångaren
+Bergsångaren
+Berguven
+Bivråken
+Biätaren
+Björktrasten
+Bleka Tornseglaren
+Blåa Kärrhöken
+Blåhaken
+Blåkråkan	
+Blåmesen
+Blåstjärten
+Blåtrasten
+Blåvingade Årtan
+Bläsanden
+Bläsgåsen
+Bofinken
+Brandkronade Kungsfågelen
+Brednäbbade Simsnäppan
+Bredstjärtade Labben
+Brokiga Kardinalen
+Bronsibisen
+Bruna Gladan
+Bruna Kärrhöken
+Bruna Törnskatan
+Brunanden
+Brunsångaren
+Brushanen
+Buskskvättan
+Busksångaren
+Bändelkorsnäbben
+Cettisångaren
+Citronärlan
+Dalripan
+Dammsnäppan
+Domherren
+Drillsnäppan
+Dubbelbeckasinen
+Dubbeltrasten
+Duvhöken
+Dvärgbeckasinen
+Dvärglärkan
+Dvärgmåsen
+Dvärgrördromen
+Dvärgskarven
+Dvärgsparven
+Dvärgspoven
+Dvärgsumphönan
+Dvärgsångaren
+Dvärguven
+Dvärgörnen	
+Ejdern
+Eksångaren
+Eleonorafalken
+Enkelbeckasinen	
+Entitan
+Eremitskogstrasten
+Fasanen
+Fiskgjusen
+Fiskmåsen
+Fisktärnan	
+Fjällabben
+Fjällgåsen
+Fjällpiparen
+Fjällripan
+Fjällugglan	
+Fjällvråken
+Flodsångaren
+Flugsnapparen
+Fläckdrillsnäppan
+Forsärlan
+Fältpiplärkan
+Fältsångaren
+Garfågelen
+Glasögonflugsnapparen
+Gluttsnäppan
+Gransångaren
+Gravanden
+Gråa Flugsnapparen
+Grågåsen
+Gråhakedoppingen
+Gråhalsade Trasten
+Gråhägern
+Gråliran
+Gråsiskan	
+Gråsparven	
+Gråspetten
+Gråtruten
+Gräsanden
+Gräshoppssångaren
+Grässångaren
+Gröna Biätaren	
+Grönbenan
+Grönfinken	
+Gröngölingen	
+Grönsiskan
+Grönsångaren
+Gulbenan
+Gulbrynade Sparven
+Gulbröstade Snäppan
+Guldtrasten
+Gulhämplingen	
+Gulnäbbade Liran
+Gulsparven
+Gulärlan
+Gyllensparven
+Gåsgamen
+Gärdsmygen	
+Göken
+Göktytaen
+Hackspetten
+Halsbandsflugsnapparen
+Havssulan
+Havstruten	
+Havsörnen
+Hedpiplärkan
+Hornugglan
+Hussvalan
+Häcksparven	
+Hämplingen
+Härfågeln
+Härmsångaren
+Höksångaren
+Hökugglan
+Isabellastenskvättan
+Isabellatörnskatan
+Ismåsen
+Jaktfalken
+Jordugglan	
+Jungfrutranan
+Järnsparven
+Järpen
+Kajan
+Kalanderlärkan
+Karolinasumphönan
+Kattugglan
+Kejsarörnen	
+Klippkajan
+Klippsparven	
+Klippsvalan
+Klykstjärtade Stormsvalan
+Knipan
+Knölsvanen
+Kohägern
+Koltrasten	
+Kolymasnäppan
+Kopparanden
+Kornknarren
+Kornsparven
+Korpen
+Korsnäbben
+Korttålärkan
+Kragtrappen
+Krickan
+Kråkan
+Kungsfiskaren
+Kungsfågelen
+Kungsfågelsångaren
+Kungsörnen
+Kustlabben
+Kustpiparen
+Kustsnäppan
+Kärrsnäppan
+Kärrsångaren
+Kärrtärnan
+Ladusvalan
+Lappmesen
+Lappsparven	
+Lappugglan
+Lavskrikan
+Liran
+Ljungpiparen
+Lundsångaren
+Lunnefågeln
+Långnäbbade Måsen
+Långtåsnäppan
+Lärkfalken
+Lövsångaren	
+Masktörnskatan
+Medelhavsstenskvättan
+Medelhavstruten
+Mellanspetten
+Minervaugglan
+Moltonisångaren
+Mongonpiparen
+Morkullan
+Mosnäppan
+Myrsnäppan
+Myrspoven
+Natthägern	
+Nattskärran	
+Nilgåsen
+Nordsångaren
+Nunnestenskvättan
+Näktergalen
+Nötkråkan
+Nötskrikan	
+Nötväckan
+Orientseglaren
+Orientvadarsvalan
+Ormvråken
+Ormörnen
+Orren
+Ortolansparven
+Papegojalkan
+Pilfinken
+Pilgrimsfalken
+Piparsnäppan
+Polyglottsångaren
+Praktejdern
+Prutgåsen
+Prärielöparen
+Präriemåsen
+Prärietranan
+Pungmesen
+Purpurhägern
+Pärlugglan
+Rallhägern	
+Rapphönan
+Ringanden
+Ringduvan	
+Ringnäbbade Måsen
+Ringtrasten	
+Rosenfinken
+Rosenmåsen
+Rosenstaren	
+Rosentärnan
+Roskarln
+Rostanden
+Rostgumpade Törnskatan
+Rostgumpsvalan	
+Rostskogstrasten	
+Rostsparven
+Rostsångaren
+Råkan
+Röda Gladan
+Rödbenan
+Rödfalken
+Rödhaken
+Rödhalsade Gåsen
+Rödhalsade Sandsnäppan
+Rödhuvade Dykanden
+Rödhuvade Törnskatan
+Rödspoven
+Rödstjärten	
+Rödstrupiga Piplärkan	
+Rödstrupiga Sångaren
+Rödvingade Vadarsvalan	
+Rödvingetrasten
+Rördromen
+Rörhönan
+Rörsångaren
+Salskraken
+Sammetshättan
+Sandlöparen
+Sandsnäppan
+Sandtärnan
+Sidensvansen
+Silkeshägern
+Sillgrisslan
+Silltruten
+Silvertärnan
+Sjöorren
+Skatan
+Skatgöken
+Skedanden
+Skedstorken	
+Skogsduvan
+Skogssnäppan
+Skorstensseglaren
+Skrattmåsen
+Skrikörnen
+Skräntärnan	
+Skäggdoppingen
+Skäggmesen
+Skäggtärnan	
+Skärfläckan
+Skärpiplärkan
+Skärsnäppan
+Slagugglan
+Smalnäbbade Simsnäppan
+Smutsgamen	
+Smådoppingen	
+Småfläckiga Sumphönan
+Smålomen
+Småskraken
+Småsnäppan
+Småspoven
+Småtrappen	
+Småtärnan
+Snatteranden
+Snösiskan
+Snösparven	
+Sommargyllingen
+Sothönan
+Sottärnan	
+Sotvingade Måsen
+Sparvhöken	
+Sparvugglan	
+Spetsbergsgrisslan
+Spetsbergsgåsen
+Spetsstjärtade Snäppan
+Spillkråkan
+Spovsnäppan
+Staren
+Steglitsen
+Stenfalken
+Stenknäckan	
+Stenskvättan	
+Stentrasten
+Stjärtanden
+Stjärtmesen
+Storlabben
+Storlomen
+Stormfågelen
+Stormsvalan
+Storskarven
+Storskraken
+Storspoven
+Stortrappen
+Strandpiparen
+Strandskatan
+Strömanden
+Strömstaren	
+Stubbstjärtseglaren
+Styltlöparen
+Styltsnäppan
+Stäppflyghönan
+Stäpphöken
+Stäppsångaren
+Stäppvipan
+Stäppörnen
+Sumpvipan	
+Svarta Rödstjärten
+Svarta Storken
+Svartanden
+Svartbenta Strandpiparen
+Svartbrynade Albatrossen
+Svarthakade Buskskvättan
+Svarthakedoppingen
+Svarthalsade Doppingen
+Svarthuvade Måsen	
+Svarthuvade Sparven
+Svarthuvade Truten	
+Svarthättan	
+Svartlärkan
+Svartmesen
+Svartnäbbade Islomen	
+Svartpannade Törnskatan
+Svartsnäppan	
+Svartstrupiga Järnsparven
+Svarttärnan
+Svartvingade Gladan	
+Svartvingade Vadarsvalan
+Svartviten 
+Svärtan	
+Sydnäktergalen
+Sånglärkan
+Sångsvann
+Sädesärlan
+Sädgåsen
+Sävsparven	
+Sävsångaren	
+Taggstjärtseglaren
+Tajgaflugsnapparen
+Tajgasångaren
+Tajgatrasten
+Talgoxen
+Tallbiten
+Tallsparven
+Talltitan
+Taltrasten
+Tamduvan
+Tereksnäppan
+Tjockfoten
+Tjädern
+Tobisgrisslan
+Tofslunnen
+Tofslärkan
+Tofsmesen
+Tofsvipan
+Toppskarven
+Tordmulen
+Tornfalken	
+Tornseglaren
+Tornugglan
+Tranan
+Trastsångaren
+Tretåiga Hackspetten
+Tretåiga Måsen
+Trädgårdsträdkryparen
+Trädgårgssångaren
+Trädkryparen
+Trädlärkan
+Trädmåsen
+Trädpiplärkan
+Träsksångaren
+Tundrapiplärkan
+Tundrapiparen
+Tundrasnäppan
+Turkduvan
+Turturduvan
+Tuvsnäppan
+Tygeltärnan
+Tärnmåsen
+Törnskatan
+Törnsångaren
+Vakteln
+Vandringstrasten
+Varfågeln
+Vassångaren
+Vattenpiplärkan
+Vattenrallen
+Vattensångaren
+Videsparven
+Videsångaren
+Viggen
+Vinterhämplingen
+Vistrupiga Sparven
+Vita Storken
+Vitgumpsnäppan
+Vitkindade Gåsen
+Vitnackade Svärtan
+Vitnäbbade Islomen
+Vitryggige Hackspetten
+Vitstrupiga Näktergalen
+Vittruten
+Vitvingade Lärkan
+Vitvingade Truten
+Vitvingade Tärnan
+Vitögde Dykanden
+Årtan
+Ägretthägern
+Ängshöken
+Ängspiplärkan
+Ärtsångaren
+Ökenlöparen
+Ökennattskärran
+Ökenpiparen	
+Ökenstenskvättan
+Ökensångaren	
+Ökentrumpetaren
+Ökenvarfågelen
+Örnvråken
